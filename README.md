@@ -3,3 +3,5 @@
 ## Esse foi tudo que eu fiz no Curso sobre HTML5 E CSS3 e um pouquinho mais. :wink:
 
 #### Aqui você pode ver que fiz um bom trabalho. :heart:
+
+###### Obs: Se essa linha existe, é pq ainda estou fazendo :grin:
