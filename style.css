@@ -1,3 +1,7 @@
+body {
+  background: #ccc;
+}
+
 #title, .subtitle, .post_title {
  color:blue;
 }
@@ -5,4 +9,19 @@
 .post_title {
   font-size: 16px;
   font-style: italic;
+} 
+.avatar {
+  width: 150px;
+  height: auto;
+}
+.post1 {
+  width: 800px;
+  height: auto;
+}
+
+.post {
+  background: #fff;
+  padding: 10px;
+  border: 3px solid #aaaa;
+  margin: 10px;
 }
