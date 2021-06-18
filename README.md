@@ -4,4 +4,4 @@
 
 #### Aqui você pode ver que fiz um bom trabalho. :heart:
 
-###### Obs: Se essa linha existe, é pq ainda estou desenvolvendo. :grin:
+### Então esse foi o meu primeiro "projeto" foi um bom conteúdo! A qualquer momento eu o atualizarei :relaxed:
