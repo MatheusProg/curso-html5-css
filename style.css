@@ -46,3 +46,13 @@ a {
   margin-bottom: 15px;
   text-transform: capitalize;
 }
+
+.contacts_list {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 15px;
+}
+
+.contacts_list li a{
+  color: blue;
+}
